@@ -94,6 +94,7 @@ A curated list of awesome resources for the Monero crypto-currency
 - With Bitcoin
     - [Shapeshift.io](https://shapeshift.io)
     - [Bisq.io](https://bisq.io)
+    - [Haveno](https://haveno.exchange) - Decentralized, non-custodial XMR exchange. Fork of Bisq built for Monero. Supports fiat on-ramps (cash, bank transfer) via escrow multisig. Instances: [RetosSwap](https://retoswap.com), [DawnSwap](https://dawnswap.cash)
 
 - Guides
     - [How To Obtain Monero?](https://forum.getmonero.org/5/support/2384/the-easiest-way-to-buy-monero) - Tutorial from the official Monero forum
@@ -119,4 +120,5 @@ A curated list of awesome resources for the Monero crypto-currency
     - [Zcash](https://z.cash)
     - [Boolberry](http://boolberry.org)
     - [MimbleWimble](https://github.com/ignopeverell/grin)
+
 
