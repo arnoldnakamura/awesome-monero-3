@@ -90,6 +90,7 @@ A curated list of awesome resources for the Monero crypto-currency
     - [Litebit](https://www.litebit.eu) - Europe-based exchange
     - [LiveCoin](https://anycoindirect.eu/en/buy/monero) - Europe-based crypto-currency buying platform
     - [Monero Cash](https://moneroforcash.com) - Person-to-person Monero trading. Similar to [LocalBitcoins](https://localbitcoins.com)
+    - [arnoldnakamura](https://arnoldnakamura.codeberg.page/) - P2P XMR↔EUR trading. Cash by Mail (EU-wide) + Face-to-Face (SW Germany). 683 trades, 100% feedback. Via [RetosSwap](https://retoswap.com) & [DawnSwap](https://dawnswap.net). Contact: @arnoldnakamura on Telegram.
 
 - With Bitcoin
     - [Shapeshift.io](https://shapeshift.io)
@@ -119,4 +120,3 @@ A curated list of awesome resources for the Monero crypto-currency
     - [Zcash](https://z.cash)
     - [Boolberry](http://boolberry.org)
     - [MimbleWimble](https://github.com/ignopeverell/grin)
-
